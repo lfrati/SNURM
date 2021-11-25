@@ -3,7 +3,7 @@ import json
 import time
 from pathlib import Path
 
-from SNURM_utils import status, GET_req, POST_req
+from utils import status, GET_req, POST_req
 
 
 if __name__ == "__main__":
